@@ -10,10 +10,9 @@
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
+	"EngineVersion": "5.4.0",
 	"CanContainContent": false,
 	"Installed": true,
-	"IsBetaVersion": false,
-	"IsExperimentalVersion": false,
 	"Modules": [
 		{
 			"Name": "AdvancedPlugin",

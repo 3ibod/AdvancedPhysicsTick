@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include "AdvancedPawn.h"
 #include "CoreMinimal.h"
 #include "PhysicsEngine/BodyInstance.h"
 #include "PBDRigidsSolver.h"

@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../x64/UnrealGame/Development/AdvancedPlugin/Module.AdvancedPlugin.cpp.o",
+		"../../../x64/UnrealGame/Development/AdvancedPlugin/AdvancedManagerAsyncCallback.cpp.o",
+		"../../../x64/UnrealGame/Development/AdvancedPlugin/AdvancedPlugin.cpp.o",
+		"../../../x64/UnrealGame/Development/AdvancedPlugin/AdvancedPawn.cpp.o"
+	]
+}
