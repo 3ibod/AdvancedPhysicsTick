@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 12,
+	"VersionName": "1.2",
+	"FriendlyName": "Advanced Physics Tick",
+	"Description": "Простая и удобная интеграция асинхронных тиков для Chaos",
+	"Category": "Physics",
+	"CreatedBy": "Alexander",
+	"CreatedByURL": "https://github.com/AlexanderZhmurkin/AdvancedPhysicsTick",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AdvancedPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "AdvancedPluginEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
