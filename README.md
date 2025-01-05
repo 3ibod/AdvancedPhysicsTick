@@ -1,3 +1,5 @@
+ Небольшие правки в AdvancedPawn.cpp, скомпилированная версия для Linux 
+
 # Advanced Physics Tick
 
 ![Banner](Resources/Docs/Banner.png)
